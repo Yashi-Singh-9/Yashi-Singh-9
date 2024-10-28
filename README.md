@@ -29,5 +29,3 @@ Throughout my journey, I’ve faced and overcome several technical challenges, p
 Let’s connect and explore opportunities to collaborate, share knowledge, and grow in the ever-evolving tech space!
 
 [LinkedIn](www.linkedin.com/in/yashi-singh-b4143a246)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/671e330831d65c235d043943?variant=dark)](https://roadmap.sh)
