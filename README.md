@@ -28,4 +28,4 @@ Throughout my journey, I’ve faced and overcome several technical challenges, p
 ### 🔗 Connect with Me:
 Let’s connect and explore opportunities to collaborate, share knowledge, and grow in the ever-evolving tech space!
 
-[LinkedIn](www.linkedin.com/in/yashi-singh-b4143a246)
+[LinkedIn](https://www.linkedin.com/in/yashi-singh-b4143a246)
