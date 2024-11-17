@@ -30,7 +30,6 @@ Efficient query design, performance optimization, and database management are my
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=Yashi-Singh-9&color=ff69b4&style=for-the-badge)  
 - ![Followers](https://img.shields.io/github/followers/Yashi-Singh-9?label=Followers&style=for-the-badge&color=teal)  
-- ![Stars](https://img.shields.io/github/stars/Yashi-Singh-9?label=Stars&style=for-the-badge&color=yellow)  
 
 **Languages I Use:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashi-Singh-9&layout=compact&theme=radical&langs_count=6)  
