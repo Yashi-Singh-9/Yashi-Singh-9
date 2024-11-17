@@ -1,31 +1,69 @@
-## 👋 Hello, I'm Yashi Singh! 
+# 👋 Hey there, I'm **Yashi Singh!**  
 
-**Software Engineer | Frontend & SQL Developer Enthusiast | Problem Solver**
+**💻 Software Engineer | 🎨 Frontend Fanatic | 📊 SQL Explorer | 🔍 Problem Solver**  
 
-Welcome to my profile! I'm a dedicated and passionate software engineer with over **10 months of experience** in the tech industry. My journey so far has been centered around developing efficient and user-friendly applications, focusing on **frontend development** and working extensively with **SQL**.
+Welcome to my little corner of GitHub! 🚀  
+I’m a passionate software engineer with **10 months of experience** in creating impactful applications. My expertise lies in developing sleek, efficient user interfaces and crafting robust database solutions. Every line of code I write strives to bridge functionality and aesthetics.  
 
-### 🛠️ My Skills & Experience:
-- **Frontend Development:** 
-  - HTML, CSS, JavaScript, React.js
-  - Crafting seamless user experiences with responsive and accessible design.
-  - Passionate about solving challenges in UI/UX and improving frontend performance.
-  
-- **Backend & Databases:** 
-  - SQL (MySQL, PostgreSQL)
-  - Managing databases, writing efficient queries, and optimizing performance.
+---
 
-### 🌱 What I’m Currently Working On:
-I am continuously enhancing my skills and working through complex challenges in frontend development, especially focusing on:
-- Solving real-world problems related to UI/UX.
-- Improving user interaction flows and ensuring cross-platform compatibility.
-  
-### 🎯 My Goals:
-I am actively looking forward to advancing my career as a **Frontend Developer** and **SQL Specialist**, while continuing to hone my expertise in designing and optimizing web applications.
+## 🛠️ My Toolbox  
+Here’s what I bring to the table:  
 
-### 📈 Challenges I’ve Tackled:
-Throughout my journey, I’ve faced and overcome several technical challenges, particularly in frontend development. From debugging intricate UI issues to optimizing code for faster performance, I’m always eager to learn and grow.
+**Frontend Technologies:**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-### 🔗 Connect with Me:
-Let’s connect and explore opportunities to collaborate, share knowledge, and grow in the ever-evolving tech space!
+**Backend & Databases:**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+Efficient query design, performance optimization, and database management are my bread and butter.  
 
-[LinkedIn](https://www.linkedin.com/in/yashi-singh-b4143a246)
+**Other Skills:**  
+- UI/UX troubleshooting 🛠️  
+- Responsive and accessible design for cross-platform compatibility 🎨  
+
+---
+
+## 🔥 My Dynamic Stats  
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=Yashi-Singh-9&color=ff69b4&style=for-the-badge)  
+- ![Followers](https://img.shields.io/github/followers/Yashi-Singh-9?label=Followers&style=for-the-badge&color=teal)  
+- ![Stars](https://img.shields.io/github/stars/Yashi-Singh-9?label=Stars&style=for-the-badge&color=yellow)  
+
+**Languages I Use:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashi-Singh-9&layout=compact&theme=radical&langs_count=6)  
+
+**GitHub Contributions:**  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9&theme=radical)  
+
+---
+
+## 🌱 What’s Cooking?  
+
+I’m actively working on:  
+- Tackling UI/UX challenges and improving web performance.  
+- Writing cleaner, more efficient React components.  
+- Exploring advanced SQL optimization techniques.  
+
+---
+
+## 🎯 Future Aspirations  
+
+I aspire to:  
+- Evolve into a **Frontend Architect** while mastering **SQL development**.  
+- Build applications that are not only functional but also beautiful and intuitive.  
+- Share my knowledge with the tech community and grow collaboratively.  
+
+---
+
+## 📬 Let’s Connect  
+
+I’d love to network, collaborate, and explore exciting opportunities!  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashi--Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashi-singh-b4143a246)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Yashi--Singh-9?style=for-the-badge&logo=github)](https://github.com/Yashi-Singh-9)  
+
+---
+
+✨ “Every problem is an opportunity to learn and grow.” Let’s write some awesome code together!  
