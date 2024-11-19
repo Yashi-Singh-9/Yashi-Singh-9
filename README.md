@@ -1,4 +1,5 @@
 # 👋 Hey there, I'm **Yashi Singh!**  
+<img src="https://komarev.com/ghpvc/?username=Yashi-Singh-9&label=Profile%20views&color=0e75b6&style=flat" alt="Yashi-Singh-9" /> </p>
 
 **💻 Software Engineer | 🎨 Frontend Fanatic | 📊 SQL Explorer | 🔍 Problem Solver**  
 
@@ -26,16 +27,12 @@ Efficient query design, performance optimization, and database management are my
 
 ---
 
-## 🔥 My Dynamic Stats  
-
-- ![Profile Views](https://komarev.com/ghpvc/?username=Yashi-Singh-9&color=ff69b4&style=for-the-badge)  
-- ![Followers](https://img.shields.io/github/followers/Yashi-Singh-9?label=Followers&style=for-the-badge&color=teal)  
-
 **Languages I Use:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashi-Singh-9&layout=compact&theme=radical&langs_count=6&v=12345)
 
-**GitHub Contributions:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9&theme=radical&v=123456)
+**GitHub Stats:**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9&theme=radical)
+
 
 ---
 
