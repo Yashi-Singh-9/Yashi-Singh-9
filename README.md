@@ -16,6 +16,9 @@ Here’s what I bring to the table:
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![SCSS](https://img.shields.io/badge/SCSS-%23CB6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Databases:**  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
