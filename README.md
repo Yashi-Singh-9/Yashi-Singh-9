@@ -34,7 +34,7 @@ Efficient query design, performance optimization, and database management are my
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashi-Singh-9&layout=compact&theme=radical&langs_count=6&cache_seconds=60)
 
 **GitHub Stats:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9&theme=radical&langs_count=6&cache_seconds=60)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9&theme=radical)
 
 
 ---
