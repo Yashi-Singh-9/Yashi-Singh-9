@@ -61,8 +61,7 @@ I aspire to:
 ## 📬 Let’s Connect  
 
 I’d love to network, collaborate, and explore exciting opportunities!  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashi--Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashi-singh-b4143a246)  
-- [![GitHub](https://img.shields.io/badge/GitHub-Yashi--Singh-9?style=for-the-badge&logo=github)](https://github.com/Yashi-Singh-9)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashi--Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashi-singh-b4143a246)  
 
 ---
 
