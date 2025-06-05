@@ -41,7 +41,7 @@ Proficient in designing efficient queries, optimizing database performance, and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashi-Singh-9\&layout=compact\&theme=radical\&langs_count=10\&cache_seconds=0)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9\&theme=radical\&cache_seconds=0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9\&theme=radical\&cache_seconds=60)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashi-Singh-9\&show_icons=true\&theme=radical\&cache_seconds=0)
 
