@@ -43,8 +43,6 @@ Proficient in designing efficient queries, optimizing database performance, and 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashi-Singh-9\&theme=radical\&cache_seconds=60)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6911fb32ce70eef65b055753?variant=dark\&cache_seconds=60)](https://roadmap.sh)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashi-Singh-9\&show_icons=true\&theme=radical\&cache_seconds=0)
 
 ---
